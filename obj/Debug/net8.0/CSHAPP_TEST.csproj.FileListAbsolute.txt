@@ -12,3 +12,4 @@ e:\CSHAPP_TEST\obj\Debug\net8.0\refint\CSHAPP_TEST.dll
 e:\CSHAPP_TEST\obj\Debug\net8.0\CSHAPP_TEST.pdb
 e:\CSHAPP_TEST\obj\Debug\net8.0\CSHAPP_TEST.genruntimeconfig.cache
 e:\CSHAPP_TEST\obj\Debug\net8.0\ref\CSHAPP_TEST.dll
+e:\CSHAPP_TEST\obj\Debug\net8.0\CSHAPP_TEST.sourcelink.json
