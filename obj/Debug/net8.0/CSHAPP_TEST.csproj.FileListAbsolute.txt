@@ -1,0 +1,14 @@
+e:\CSHAPP_TEST\bin\Debug\net8.0\CSHAPP_TEST.exe
+e:\CSHAPP_TEST\bin\Debug\net8.0\CSHAPP_TEST.deps.json
+e:\CSHAPP_TEST\bin\Debug\net8.0\CSHAPP_TEST.runtimeconfig.json
+e:\CSHAPP_TEST\bin\Debug\net8.0\CSHAPP_TEST.dll
+e:\CSHAPP_TEST\bin\Debug\net8.0\CSHAPP_TEST.pdb
+e:\CSHAPP_TEST\obj\Debug\net8.0\CSHAPP_TEST.GeneratedMSBuildEditorConfig.editorconfig
+e:\CSHAPP_TEST\obj\Debug\net8.0\CSHAPP_TEST.AssemblyInfoInputs.cache
+e:\CSHAPP_TEST\obj\Debug\net8.0\CSHAPP_TEST.AssemblyInfo.cs
+e:\CSHAPP_TEST\obj\Debug\net8.0\CSHAPP_TEST.csproj.CoreCompileInputs.cache
+e:\CSHAPP_TEST\obj\Debug\net8.0\CSHAPP_TEST.dll
+e:\CSHAPP_TEST\obj\Debug\net8.0\refint\CSHAPP_TEST.dll
+e:\CSHAPP_TEST\obj\Debug\net8.0\CSHAPP_TEST.pdb
+e:\CSHAPP_TEST\obj\Debug\net8.0\CSHAPP_TEST.genruntimeconfig.cache
+e:\CSHAPP_TEST\obj\Debug\net8.0\ref\CSHAPP_TEST.dll
