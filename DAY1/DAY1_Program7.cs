@@ -2,7 +2,7 @@ namespace CSHAPP_TEST{ //프로그램 구분화(그룹화)
 
 public class DAY1_Program7
 {
-    static void Main(string[] args)
+    static void Main1(string[] args)
     {
        
         int a = 10;
