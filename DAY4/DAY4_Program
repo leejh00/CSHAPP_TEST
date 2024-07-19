@@ -1,0 +1,32 @@
+namespace C_SHARP_PROJECT1;
+ public class DAY4_PROGRAM26
+ {
+ static int SumRecursive(int num)
+ {
+    if (num == 0)
+    {
+        return 0; // 종료조건 (base case)
+    }
+    else
+    {
+        Console.WriteLine("재귀 호출 전달 받은 값 : {0}", num);
+        return (int)(num + SumRecursive(num-1)); // 재귀 호출 (recursive function)
+     }
+ }
+
+ //  // 반복문으로 구현 가능
+// int factorial(int num){
+//  int result = 1;
+//  for(int i = 1 ; i <= num ; i++){
+//  result = result * i;
+//  }
+//  return result;
+//  }
+
+ static void Main1(string[] args)
+ {
+    Console.WriteLine("더하기 재귀 함수를 시작합니다 : 정수를 입력해주세요");
+    int num = int.Parse(Console.ReadLine());
+    Console.WriteLine("재귀 호출 더하기 결과 : {0}", SumRecursive(num));
+ }
+ }

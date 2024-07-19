@@ -1,7 +1,7 @@
 namespace C_SHARP_PROJECT;
 public class DAY3_PROGRAM17_Exam2
 {
-static void Main(String []args)
+static void Main1(String []args)
 {
     String[] name_array = new String[] {"아저씨", "김새나", "엄마", "아빠", "누나", "형", "동생", "김말아유", "홍길동", "개구리"};
 

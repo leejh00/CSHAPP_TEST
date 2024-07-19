@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\CSHAPP_TEST\\CSHAPP_TEST.csproj": {}
+    "E:\\CSHAPP_TEST\\CSHAPP_TEST.csproj": {}
   },
   "projects": {
-    "e:\\CSHAPP_TEST\\CSHAPP_TEST.csproj": {
+    "E:\\CSHAPP_TEST\\CSHAPP_TEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\CSHAPP_TEST\\CSHAPP_TEST.csproj",
+        "projectUniqueName": "E:\\CSHAPP_TEST\\CSHAPP_TEST.csproj",
         "projectName": "CSHAPP_TEST",
-        "projectPath": "e:\\CSHAPP_TEST\\CSHAPP_TEST.csproj",
+        "projectPath": "E:\\CSHAPP_TEST\\CSHAPP_TEST.csproj",
         "packagesPath": "C:\\Users\\jhlee\\.nuget\\packages\\",
-        "outputPath": "e:\\CSHAPP_TEST\\obj\\",
+        "outputPath": "E:\\CSHAPP_TEST\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhlee\\AppData\\Roaming\\NuGet\\NuGet.Config"

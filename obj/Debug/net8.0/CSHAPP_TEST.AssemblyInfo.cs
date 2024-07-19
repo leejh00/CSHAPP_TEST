@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSHAPP_TEST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23b2bb180f2c5155a6964b1c1e8b5f9c1b5de65a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97a5d00d1a0a7b43c040fca4af03b4a685a4720c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSHAPP_TEST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSHAPP_TEST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
