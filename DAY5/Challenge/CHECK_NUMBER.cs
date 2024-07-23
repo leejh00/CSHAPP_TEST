@@ -58,7 +58,12 @@ static int Rnumberck(String result)
     return Rck;
 }
 
-static void Main(String []args)
+// static void program_start()
+// {
+    
+// }
+
+static void Main1(String []args)
 {
     String result = "";
     for(;;){
